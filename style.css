@@ -1,0 +1,110 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+    padding: 0px;   
+}
+
+header {
+    display: flex;    
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;    
+}
+
+header img {
+    width: 50px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+header h3 {
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+span {
+    color: chocolate;
+}
+
+header li {
+    list-style: none;
+    border: 1px solid black;
+    width: 200px;
+    text-align: center;
+    margin: 15px 15px;    
+    cursor: pointer;
+}
+
+header li:hover {
+    background-color: chocolate;    
+}
+
+header li a {
+    text-decoration: none;
+    color: black;
+}
+
+.descricao {
+    background-color: rgb(210, 207, 207); 
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.descricao p {
+    letter-spacing: 2px;
+    font-size: 20px;
+}
+
+.imagem-um, .imagem-dois {      
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.imagem-um img, .imagem-dois img {
+    margin: 20px 20px;
+    width: 400px;
+    height: 250px;
+    border: 2px solid black;
+    transition: 0.5s ease;
+}
+
+.imagem-um img:hover, .imagem-dois img:hover {
+    transform: scale(1.03);
+    border: 2px solid chocolate;
+}
+
+.formulario {    
+    height: 600px;
+    background-color: rgb(210, 207, 207);
+    padding: 20px;   
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;    
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 30px;
+}
+
+.interesses {
+    margin-bottom: 20px;   
+}
+
+button:hover {
+    background-color: chocolate;
+    border: 2px solid black;
+    cursor: pointer;
+}
+
+footer p {
+    padding: 20px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}

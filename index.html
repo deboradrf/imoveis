@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <img src="./img/logo.png" alt="logo">
+        <h3>H O U <span>$</span> E</h3>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Imóveis</a></li>
+            <li><a href="#">Entre em Contato</a></li>
+            <li><a href="#">Minha Conta</a></li>
+        </ul>
+    </header>
+    <div class="descricao">        
+        <p>Site para aluguel ou compra de imóveis</p>              
+    </div>
+    <main>
+        <div class="imagem-um">
+            <img src="./img/img1.avif">
+            <img src="./img/img2.avif">
+            <img src="./img/img3.avif">
+            <img src="./img/img4.avif">
+        </div>
+        <div class="imagem-dois">
+            <img src="./img/img5.avif">
+            <img src="./img/img6.avif">
+            <img src="./img/img7.avif">
+            <img src="./img/img8.avif">
+        </div>
+    </main>
+    <section class="formulario">
+        <h2>Cadastre-se e conheça mais:</h2>
+        <form method="POST">
+            <label>Nome:</label>
+            <input type="text"><br>
+
+            <label>E-mail:</label>
+            <input type="email"><br>
+
+            <label>Senha:</label>
+            <input type="password"><br>
+
+            <label>Sexo:</label>
+            <select>
+                <option>Feminino</option>
+                <option>Masculino</option>
+                <option>Outro</option>
+                <select><br>
+
+                    <div class="interesses">
+                        <label>Interesses:</label><br>
+                        <input type="checkbox"><label>Imóvel residencial</label>
+                        <input type="checkbox"><label>Imóvel comercial</label>
+                        <input type="checkbox"><label>Imóvel industrial</label><br>
+                    </div>
+
+                    <label>Comentários:</label>
+                    <textarea rows="3" cols="20"></textarea><br>
+
+                    <button type="submit">Enviar</button>
+        </form>
+    </section>
+    <footer>
+        <p>Copyright @ 2023</p>
+    </footer>
+</body>
+
+</html>
