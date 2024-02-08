@@ -10,9 +10,6 @@ Projeto desenvolvido para disciplina de Desenvolvimento de Interfaces Web, do cu
 ## 🎨 Layout
 <img src="https://github.com/deboradrf/imoveis/assets/130398684/506fae53-8f63-41b2-bb12-60f009c718c6">
 
-## ⚙️ Funcionalidades
-``1`` Possui um formulário para cadastro de cliente (não funcional).
-
 ## ✔️ Tecnologias utilizadas
 - ``Visual Studio Code``
 - ``HTML``
