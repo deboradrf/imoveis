@@ -8,7 +8,7 @@
 Projeto desenvolvido para disciplina de Desenvolvimento de Interfaces Web, do curso de Análise e Desnevolvimento de Sistemas, que simula uma página para aluguel ou venda de imóveis.
 
 ## 🎨 Layout
-<img src="https://github.com/deboradrf/imoveis/assets/130398684/506fae53-8f63-41b2-bb12-60f009c718c6">
+<img src="https://github.com/user-attachments/assets/544a6e73-d56a-483b-b08b-8a7808a521c8">
 
 ## ✔️ Tecnologias utilizadas
 - ``Visual Studio Code``
