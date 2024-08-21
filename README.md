@@ -4,18 +4,17 @@
   <img src="https://img.shields.io/github/stars/deboradrf?style=social">
 </p>
 
-## 📚 Descrição
+### 📚 Descrição
 Projeto desenvolvido para disciplina de Desenvolvimento de Interfaces Web, do curso de Análise e Desnevolvimento de Sistemas, que simula uma página para aluguel ou venda de imóveis.
 
-## 🎨 Layout
+### 🎨 Layout
 <img src="https://github.com/user-attachments/assets/544a6e73-d56a-483b-b08b-8a7808a521c8">
 
-## ✔️ Tecnologias utilizadas
+### ✔️ Tecnologias utilizadas
 - ``Visual Studio Code``
 - ``HTML``
 - ``CSS``
 - ``Bootstrap``
 
-## 📁 Acesso ao projeto
-Hospedado no Netlify <br>
-Link: https://imoveis-deboradrf.netlify.app
+### 📁 Acesso ao projeto
+Hospedado no Netlify `https://imoveis-deboradrf.netlify.app`
